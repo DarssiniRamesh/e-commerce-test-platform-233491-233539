@@ -1,1 +1,3 @@
-# e-commerce-test-platform-233491-233539
+# Project Repository
+
+This is the initial README file for the project.
